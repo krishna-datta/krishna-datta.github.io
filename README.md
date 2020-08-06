@@ -1,13 +1,7 @@
-Grayscale Jekyll theme
-=========================
+## This is my evolving resume
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+Welcome to my GitHub Pages website (This is still a work-in-progress!)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+_____
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+In the meantime, read my [CV](https://tinyurl.com/y4wc44ny)
